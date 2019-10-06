@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/usr/include"
+            ],
+            "browse": {
+                "path": [
+                    "/usr/include"
+                ]
+            },
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/VC/Tools/MSVC/14.24.28117/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include",
+                "/opt/Geant/v4.10.01.p03/include/Geant4",
+                "${workspaceRoot}/include"
+            ],
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/opt/Geant/v4.10.01.p03/include/Geant4",
+                    "${workspaceRoot}/include"
+                ]
+            },
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/VC/Tools/MSVC/14.24.28117/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include"
+            ],
+            "browse": {
+                "path": [
+                    "c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/VC/Tools/MSVC/14.24.28117/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
